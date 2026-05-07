@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="nl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PRAXIS HG zoeker</title>
+    <link rel="icon" href="praxis-academy.ico" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="search-panel" aria-labelledby="app-title">
+        <div class="header">
+          <img class="app-logo" src="praxis-academy.ico" alt="Praxis Academy" />
+          <div>
+            <p class="eyebrow">Mobiele productzoeker</p>
+            <h1 id="app-title">HG zoeker</h1>
+          </div>
+        </div>
+
+        <label class="search-label" for="productSearch">Productnaam of trefwoord</label>
+        <div class="search-box">
+          <input
+            id="productSearch"
+            type="search"
+            inputmode="search"
+            autocomplete="off"
+            placeholder="Bijv. badkamer, ontkalker, voegen..."
+          />
+          <button id="clearSearch" type="button" aria-label="Zoekveld leegmaken">x</button>
+        </div>
+
+        <div id="result" class="result idle" aria-live="polite">
+          <span class="result-label">Resultaat</span>
+          <strong>Voer een product in</strong>
+        </div>
+      </section>
+
+      <section class="list-panel" aria-labelledby="list-title">
+        <div class="list-heading">
+          <h2 id="list-title">Producten</h2>
+          <span id="countLabel">0 gevonden</span>
+        </div>
+        <div id="productList" class="product-list"></div>
+      </section>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+</html>
