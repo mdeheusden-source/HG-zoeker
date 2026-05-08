@@ -1,8 +1,6 @@
 :root {
   color-scheme: light;
-  font-family:
-    "Arial Rounded MT Bold", "Trebuchet MS", "Avenir Next Rounded", "Helvetica Rounded",
-    Arial, sans-serif;
+  font-family: "Nunito", "Trebuchet MS", Arial, sans-serif;
   background: #181a1c;
   color: #f4f4f4;
 }
@@ -217,11 +215,17 @@ input::placeholder {
   width: 58px;
   height: 58px;
   justify-self: end;
+  padding: 0;
   border: 2px solid rgba(255, 255, 255, 0.74);
   border-radius: 12px;
   box-shadow:
     inset 0 1px 0 rgba(255, 255, 255, 0.3),
     0 9px 18px rgba(0, 0, 0, 0.36);
+  cursor: pointer;
+}
+
+.category-color:active {
+  transform: scale(0.96);
 }
 
 .result.idle,

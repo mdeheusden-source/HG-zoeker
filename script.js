@@ -94,13 +94,14 @@
   { name: "Waterdicht Voor 100% Synthetisch Textiel", category: "Wasruimte & Textiel", number: "312" },
   { name: "HG 4-in-1 Beschermer Voor Textiel 300ml", category: "Wasruimte & Textiel", number: "314" },
   { name: "Tegen Nare Geurtjes In Textiel", category: "Wasruimte & Textiel", number: "315" },
-  { name: "Schoendeo", category: "Wasruimte & Textiel", number: "321" },
+  { name: "Schoendeo 0,25L", category: "Wasruimte & Textiel", number: "321" },
   { name: "Tegen Stinkend Wasgoed Eco", category: "Wasruimte & Textiel", number: "322" },
   { name: "Tegen Stinkend Wasgoed Wasmiddeltoevoeging", category: "Wasruimte & Textiel", number: "323" },
   { name: "Tegen Nare Geurtjes In Sportkleding", category: "Wasruimte & Textiel", number: "324" },
   { name: "Vlekken Voorbehandeling Eco", category: "Wasruimte & Textiel", number: "325" },
-  { name: "Op Reis Wasje", category: "Wasruimte & Textiel", number: "326" },
-  { name: "Autoreiniger En Beschermer", category: "Schuur & Garage", number: "316" },
+  { name: "Op Reis Wasje 200ml", category: "Wasruimte & Textiel", number: "226" },
+  { name: "Reiswasmiddel 200ml", category: "Wasruimte & Textiel", number: "226" },
+  { name: "Auto Carwash Shampoo 1L", category: "Schuur & Garage", number: "316" },
   { name: "Velgenreiniger", category: "Schuur & Garage", number: "317" },
   { name: "Bekledingreiniger", category: "Schuur & Garage", number: "318" },
   { name: "Olievlekkenreiniger", category: "Schuur & Garage", number: "319" },
@@ -215,18 +216,20 @@ function setResult(product, query, searchMode = "name") {
     <span class="result-label">${label}</span>
     <span class="result-main">
       ${mainResult}
-      <span
+      <button
+        type="button"
         class="category-color"
+        data-category="${product.category}"
         style="background: ${getCategoryColor(product.category)}"
-        aria-label="Kleur voor productgroep ${product.category}"
-      ></span>
+        aria-label="Toon alle artikelen uit ${product.category}"
+      ></button>
     </span>
   `;
 }
 
-function renderList(items) {
+function renderList(items, label = null) {
   productList.innerHTML = "";
-  countLabel.textContent = `${items.length} gevonden`;
+  countLabel.textContent = label || `${items.length} gevonden`;
 
   if (items.length === 0) {
     productList.innerHTML = `<p class="no-results">Geen producten gevonden.</p>`;
@@ -271,6 +274,17 @@ function updateSearch() {
 }
 
 searchInput.addEventListener("input", updateSearch);
+result.addEventListener("click", (event) => {
+  const colorButton = event.target.closest(".category-color");
+
+  if (!colorButton) {
+    return;
+  }
+
+  const category = colorButton.dataset.category;
+  const categoryProducts = products.filter((product) => product.category === category);
+  renderList(categoryProducts, `${categoryProducts.length} in groep`);
+});
 clearButton.addEventListener("click", () => {
   searchInput.value = "";
   updateSearch();
