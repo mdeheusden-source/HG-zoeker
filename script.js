@@ -14,7 +14,7 @@
   { name: "Meubelhersteller Donker Hout, Meubelline", category: "Woonkamer & Overige Vertrekken", number: "109" },
   { name: "Meubelhersteller Licht Hout, Meubelline", category: "Woonkamer & Overige Vertrekken", number: "110" },
   { name: "Verzorgende Meubelolie", category: "Woonkamer & Overige Vertrekken", number: "111" },
-  { name: "Marble Crystalizer (250 ml)", category: "Woonkamer & Overige Vertrekken", number: "112" },
+  { name: "Natuursteen Crystalizer (250 ml)", category: "Woonkamer & Overige Vertrekken", number: "112" },
   { name: "4 In 1 Voor Leer", category: "Woonkamer & Overige Vertrekken", number: "113" },
   { name: "Dieptereiniger Voor Leer", category: "Woonkamer & Overige Vertrekken", number: "114" },
   { name: "Leerspray", category: "Woonkamer & Overige Vertrekken", number: "115" },
@@ -55,7 +55,7 @@
   { name: "Natuursteen Badkamerreiniger", category: "Badkamer & Toilet", number: "145" },
   { name: "Douche En Wasbak Spray", category: "Badkamer & Toilet", number: "146" },
   { name: "Power Foam Badkamer", category: "Badkamer & Toilet", number: "147" },
-  { name: "Marble Cleaner", category: "Badkamer & Toilet", number: "148" },
+  { name: "Natuursteen Cleaner", category: "Badkamer & Toilet", number: "148" },
   { name: "Marmer Cleaner", category: "Badkamer & Toilet", number: "148" },
   { name: "Power Foam Douche", category: "Badkamer & Toilet", number: "149" },
   { name: "Siliconenkitverwijderaar", category: "Badkamer & Toilet", number: "150" },
@@ -112,13 +112,13 @@
   { name: "Waterdicht Scherm", category: "Buiten", number: "248" },
   { name: "Zonnescherm Reiniger", category: "Buiten", number: "249" },
   { name: "Terrastegel Reiniger", category: "Buiten", number: "250" },
-  { name: "Tegen Houtworm", category: "Buiten", number: "251" },
+  { name: "HGX tegen houtworm (500 ml)", category: "Buiten", number: "251", image: "images/251.jpg" },
   { name: "Laminaat, Vinyl En PVC Beschermer (1 L)", category: "Vloeren", number: "353" },
   { name: "Laminaatglans (1 L)", category: "Vloeren", number: "353" },
-  { name: "Ontkalker (500 ml)", category: "Wasruimte & Textiel", number: "301" },
+  { name: "Ontkalker (500 ml)", category: "Wasruimte & Textiel", number: "301", image: "images/301.jpg" },
   { name: "Tegen Stinkende Wasmachines", category: "Wasruimte & Textiel", number: "302" },
   { name: "Onderhoudsmonteur Voor (vaat)wasmachines", category: "Wasruimte & Textiel", number: "303" },
-  { name: "Onbekend", category: "Wasruimte & Textiel", number: "304" },
+  { name: "Oxi vlekverwijderaar (500 gram)", category: "Wasruimte & Textiel", number: "304", image: "images/304.jpg" },
   { name: "Vlekweg 1 (Koffie, Wijn, Inkt) (50 ml)", category: "Wasruimte & Textiel", number: "305" },
   { name: "Vlekweg Speciaal Nr 2", category: "Wasruimte & Textiel", number: "306" },
   { name: "Onbekend", category: "Wasruimte & Textiel", number: "307" },
@@ -128,7 +128,7 @@
   { name: "Vlekweg 7 Special Roest", category: "Wasruimte & Textiel", number: "311" },
   { name: "Waterdicht Katoen, Linnen En Wol", category: "Wasruimte & Textiel", number: "313" },
   { name: "Waterdicht Voor 100% Synthetisch Textiel", category: "Wasruimte & Textiel", number: "312" },
-  { name: "HG 4-in-1 Beschermer Voor Textiel (300 ml)", category: "Wasruimte & Textiel", number: "314" },
+  { name: "HG 4-in-1 Beschermer Voor Textiel en Leer (300 ml)", category: "Wasruimte & Textiel", number: "314", image: "images/314.jpg" },
   { name: "Tegen Nare Geurtjes In Textiel", category: "Wasruimte & Textiel", number: "315" },
   { name: "Schoendeo (250 ml)", category: "Wasruimte & Textiel", number: "321" },
   { name: "Tegen Stinkend Wasgoed Eco", category: "Wasruimte & Textiel", number: "322" },
@@ -157,11 +157,11 @@
   { name: "Marmer Cementsluierverwijderaar", category: "Vloeren", number: "337" },
   { name: "Natuursteen Cementsluier Verwijderaar (1 L)", category: "Vloeren", number: "337" },
   { name: "Natuursteen Impregnerende Beschermer", category: "Vloeren", number: "338" },
-  { name: "Marble Shine Finish", category: "Vloeren", number: "339" },
+  { name: "Natuursteen Shine Finish", category: "Vloeren", number: "339" },
   { name: "Marmer Wash & Shine", category: "Vloeren", number: "340" },
-  { name: "Marble Wash & Shine (1 L)", category: "Vloeren", number: "340" },
+  { name: "Natuursteen Wash & Shine (1 L)", category: "Vloeren", number: "340" },
   { name: "Natuursteenreiniger Streeploos", category: "Vloeren", number: "341" },
-  { name: "Marble Shine Reiniger", category: "Vloeren", number: "342" },
+  { name: "Natuursteen Shine Reiniger", category: "Vloeren", number: "342" },
   { name: "Natuursteenreiniger Extra Sterk", category: "Vloeren", number: "342" },
   { name: "Natuursteen Voedende Reiniger", category: "Vloeren", number: "343" },
   { name: "Olie Vlekken Absorbeerder", category: "Vloeren", number: "344" },
@@ -179,21 +179,21 @@
   { name: "Tapijt Reiniger (500 ml)", category: "Vloeren", number: "358" },
   { name: "Schoonmaakazijn (1 liter)", category: "Vloeren", number: "359" },
   { name: "Schoonmaakazijn (5 L)", category: "Vloeren", number: "360" },
-  { name: "Danny Seinen (Manager)", category: "Personeel Praxis 2240 Amersfoort", number: "2240-1", image: "images/2240-1.jpg" },
-  { name: "Denise Oskam (Assistent manager)", category: "Personeel Praxis 2240 Amersfoort", number: "2240-2", image: "images/2240-2.jpg" },
-  { name: "Richard van Viersen (Bouw) (Senior) (Sleuteldrager)", category: "Personeel Praxis 2240 Amersfoort", number: "2240-3", image: "images/2240-3.jpg" },
-  { name: "Marion", category: "Personeel Praxis 2240 Amersfoort", number: "2240-4", image: "images/2240-4.jpg" },
-  { name: "Laura (Kassa medewerkster) (Student)", category: "Personeel Praxis 2240 Amersfoort", number: "2240-5", image: "images/2240-5.jpg" },
-  { name: "Onbekend", category: "Personeel Praxis 2240 Amersfoort", number: "2240-6" },
-  { name: "Onbekend", category: "Personeel Praxis 2240 Amersfoort", number: "2240-7" },
-  { name: "Onbekend", category: "Personeel Praxis 2240 Amersfoort", number: "2240-8" },
-  { name: "Onbekend", category: "Personeel Praxis 2240 Amersfoort", number: "2240-9" },
-  { name: "Onbekend", category: "Personeel Praxis 2240 Amersfoort", number: "2240-10" },
-  { name: "Onbekend", category: "Personeel Praxis 2240 Amersfoort", number: "2240-11" },
-  { name: "Onbekend", category: "Personeel Praxis 2240 Amersfoort", number: "2240-12" },
-  { name: "Onbekend", category: "Personeel Praxis 2240 Amersfoort", number: "2240-13" },
-  { name: "Onbekend", category: "Personeel Praxis 2240 Amersfoort", number: "2240-14" },
-  { name: "Onbekend", category: "Personeel Praxis 2240 Amersfoort", number: "2240-15" },
+  { name: "Danny Seinen", role: "Manager", category: "Personeel Praxis 2240 Amersfoort", number: "2240-1", image: "images/2240-1.jpg" },
+  { name: "Denise Oskam", role: "Assistent manager", category: "Personeel Praxis 2240 Amersfoort", number: "2240-2", birthday: "21-04-1995", image: "images/2240-2.jpg" },
+  { name: "Richard van Viersen", role: "Bouw, Senior, Sleuteldrager", category: "Personeel Praxis 2240 Amersfoort", number: "2240-3", birthday: "02-12-1977", image: "images/2240-3.jpg" },
+  { name: "Marion Venema", category: "Personeel Praxis 2240 Amersfoort", number: "2240-4", birthday: "18-01-1967", image: "images/2240-4.jpg" },
+  { name: "Laura Schreiner", role: "Kassa medewerkster, Student", category: "Personeel Praxis 2240 Amersfoort", number: "2240-5", birthday: "31-03-2004", image: "images/2240-5.jpg" },
+  { name: "Djalil Sjariefie", category: "Personeel Praxis 2240 Amersfoort", number: "2240-6", birthday: "25-08-1986", image: "images/2240-6.jpg" },
+  { name: "Marcel de Heusden gezegd van der Sluyse", role: "Verkoopmedewerker", category: "Personeel Praxis 2240 Amersfoort", number: "2240-7", birthday: "03-06-1960", image: "images/2240-7.jpg" },
+  { name: "Bram de Gelder", role: "Verkoopmedewerker", category: "Personeel Praxis 2240 Amersfoort", number: "2240-8", birthday: "29-05-2001", image: "images/2240-8.jpg" },
+  { name: "Muhammed Atabey", role: "Verkoopmedewerker", category: "Personeel Praxis 2240 Amersfoort", number: "2240-9", birthday: "14-02-1999", image: "images/2240-9.jpg" },
+  { name: "Nanda Felten", role: "Verkoopmedewerker, Kassamedewerker", category: "Personeel Praxis 2240 Amersfoort", number: "2240-10", birthday: "19-05-1972" },
+  { name: "Daphne Susan", role: "Kassamedewerker, Verkoopondersteuning", category: "Personeel Praxis 2240 Amersfoort", number: "2240-11", birthday: "26-05-1972", image: "images/2240-11.jpg" },
+  { name: "Danique Smit", role: "Kassamedewerker", category: "Personeel Praxis 2240 Amersfoort", number: "2240-12", birthday: "19-05-1998", image: "images/2240-12.jpg" },
+  { name: "Matthijs uit den Boogaard", role: "Verkoopmedewerker, Sleuteldrager", category: "Personeel Praxis 2240 Amersfoort", number: "2240-13", birthday: "17-12-1994", image: "images/2240-13.jpg" },
+  { name: "Albert Bokkers", role: "Verkoopmedewerker, Sleuteldrager, BHV", category: "Personeel Praxis 2240 Amersfoort", number: "2240-14", birthday: "12-07-1971", image: "images/2240-14.jpg" },
+  { name: "Martijn Schaap", role: "Verkoopmedewerker", category: "Personeel Praxis 2240 Amersfoort", number: "2240-15" },
   { name: "Onbekend", category: "Personeel Praxis 2240 Amersfoort", number: "2240-16" },
   { name: "Onbekend", category: "Personeel Praxis 2240 Amersfoort", number: "2240-17" },
   { name: "Onbekend", category: "Personeel Praxis 2240 Amersfoort", number: "2240-18" },
@@ -248,6 +248,10 @@ function getCategoryColor(category) {
   }
 
   return "#ffcc00";
+}
+
+function isStaff(product) {
+  return product.category.startsWith("Personeel");
 }
 
 function getNumberParts(number) {
@@ -314,6 +318,13 @@ function setResult(product, query, searchMode = "name") {
     searchMode === "number"
       ? `${product.category} - nummer ${product.number}`
       : `${product.category} - ${product.name}`;
+  const roleMarkup = product.role ? `<span class="person-role">${product.role}</span>` : "";
+  const birthdayMarkup = product.birthday
+    ? `<span class="person-details">Geboortedatum: ${product.birthday}</span>`
+    : "";
+  const detailsMarkup = roleMarkup || birthdayMarkup
+    ? `<span class="person-meta">${roleMarkup}${birthdayMarkup}</span>`
+    : "";
   const imageMarkup = product.image
     ? `
       <span class="product-photo-card ${product.category.startsWith("Personeel") ? "person-photo-card" : ""}">
@@ -325,7 +336,10 @@ function setResult(product, query, searchMode = "name") {
   result.innerHTML = `
     <span class="result-label">${label}</span>
     <span class="result-main">
-      ${mainResult}
+      <span class="result-text">
+        ${mainResult}
+        ${detailsMarkup}
+      </span>
       <button
         type="button"
         class="category-color"
@@ -370,13 +384,14 @@ function renderList(items, label = null) {
 
 function updateSearch() {
   const query = normalize(searchInput.value);
-  const isNumberSearch = /^\d+$/.test(query);
+  const isNumberSearch = /^\d+(?:-\d+)?$/.test(query);
+  const visibleProducts = query ? products : products.filter((product) => !isStaff(product));
   const matches = query
-    ? products.filter((product) =>
+    ? visibleProducts.filter((product) =>
         `${normalize(product.name)} ${normalize(product.category)} ${product.number}`.includes(query),
       )
-    : products;
-  const exactMatch = products.find(
+    : visibleProducts;
+  const exactMatch = visibleProducts.find(
     (product) => normalize(product.name) === query || String(product.number) === query,
   );
   const bestMatch = exactMatch || matches[0];

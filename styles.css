@@ -213,6 +213,29 @@ input::placeholder {
   gap: 16px;
 }
 
+.result-text {
+  min-width: 0;
+  display: grid;
+  gap: 8px;
+}
+
+.person-details {
+  color: #d8d8d8;
+  font-size: 0.9rem;
+  font-weight: 800;
+}
+
+.person-meta {
+  display: grid;
+  gap: 4px;
+}
+
+.person-role {
+  color: #ffcc00;
+  font-size: 0.95rem;
+  font-weight: 900;
+}
+
 .category-color {
   width: 58px;
   height: 58px;
