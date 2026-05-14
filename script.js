@@ -5,10 +5,10 @@
   { name: "Zilverglans (125 ml)", category: "Woonkamer & Overige Vertrekken", number: "103", image: "images/103.jpg" },
   { name: "Koper Reiniger", category: "Woonkamer & Overige Vertrekken", number: "104" },
   { name: "Koper Glans Shampoo", category: "Woonkamer & Overige Vertrekken", number: "104" },
-  { name: "Kachelruitjesreiniger", category: "Woonkamer & Overige Vertrekken", number: "105" },
-  { name: "Vlekverwijderaar Extreem Sterk", category: "Woonkamer & Overige Vertrekken", number: "106" },
-  { name: "Vlekkenspray Extreem Sterk (500 ml)", category: "Woonkamer & Overige Vertrekken", number: "106" },
-  { name: "Stofzuiger Luchtverfrisser", category: "Woonkamer & Overige Vertrekken", number: "107" },
+  { name: "Kachelruitjesreiniger (500 ml)", category: "Woonkamer & Overige Vertrekken", number: "105", image: "images/105.jpg" },
+  { name: "Vlekverwijderaar Extreem Sterk (500 ml)", category: "Woonkamer & Overige Vertrekken", number: "106", image: "images/106.jpg" },
+  { name: "Vlekkenspray Extreem Sterk (500 ml)", category: "Woonkamer & Overige Vertrekken", number: "106", image: "images/106.jpg" },
+  { name: "Stofzuigerlucht verfrisser (180 g)", category: "Woonkamer & Overige Vertrekken", number: "107", image: "images/107.jpg" },
   { name: "Meubelglans (300 ml)", category: "Woonkamer & Overige Vertrekken", number: "108" },
   { name: "Meubelbeschermer (300 ml)", category: "Woonkamer & Overige Vertrekken", number: "108" },
   { name: "Meubelhersteller Donker Hout, Meubelline", category: "Woonkamer & Overige Vertrekken", number: "109" },
@@ -20,11 +20,11 @@
   { name: "Leerspray", category: "Woonkamer & Overige Vertrekken", number: "115" },
   { name: "Stickerverwijderaar", category: "Woonkamer & Overige Vertrekken", number: "116" },
   { name: "Hygiënische Matras Opfrisser", category: "Woonkamer & Overige Vertrekken", number: "117" },
-  { name: "Alle Nare Geurtjes Weg", category: "Woonkamer & Overige Vertrekken", number: "118" },
+  { name: "Alle Nare Geurtjes Weg (500 ml)", category: "Woonkamer & Overige Vertrekken", number: "118", image: "images/118.jpg" },
   { name: "Kunststof Reiniger", category: "Woonkamer & Overige Vertrekken", number: "119" },
   { name: "Glasreiniger", category: "Woonkamer & Overige Vertrekken", number: "120" },
   { name: "Marmerpolish (300 ml)", category: "Woonkamer & Overige Vertrekken", number: "201" },
-  { name: "Luchtdrukreiniger Kiertjes En Gaatjes", category: "Woonkamer & Overige Vertrekken", number: "202" },
+  { name: "Luchtdrukreiniger Kiertjes en Gaatjes", category: "Woonkamer & Overige Vertrekken", number: "202" },
   { name: "Perslucht", category: "Woonkamer & Overige Vertrekken", number: "202" },
   { name: "Behanglijmverwijderaar", category: "Woonkamer & Overige Vertrekken", number: "203" },
   { name: "Behang Verwijderaar", category: "Woonkamer & Overige Vertrekken", number: "203" },
@@ -53,7 +53,7 @@
   { name: "Kalkweg Concentraat (1 L)", category: "Badkamer & Toilet", number: "143" },
   { name: "Kalkweg Concentraat (500 ml)", category: "Badkamer & Toilet", number: "144" },
   { name: "Natuursteen Badkamerreiniger", category: "Badkamer & Toilet", number: "145" },
-  { name: "Douche En Wasbak Spray", category: "Badkamer & Toilet", number: "146" },
+  { name: "Douche en Wasbak Spray", category: "Badkamer & Toilet", number: "146" },
   { name: "Power Foam Badkamer", category: "Badkamer & Toilet", number: "147" },
   { name: "Natuursteen Cleaner", category: "Badkamer & Toilet", number: "148" },
   { name: "Marmer Cleaner", category: "Badkamer & Toilet", number: "148" },
@@ -61,17 +61,17 @@
   { name: "Siliconenkitverwijderaar", category: "Badkamer & Toilet", number: "150" },
   { name: "Douchecabine Beschermer", category: "Badkamer & Toilet", number: "151" },
   { name: "Hygiënische Whirlpoolreiniger", category: "Badkamer & Toilet", number: "152" },
-  { name: "Staalpolish (250 ml)", category: "Keuken", number: "204" },
-  { name: "Afzuigkapfilter Ontvetter", category: "Keuken", number: "205" },
-  { name: "Tegen Stinkende Vuilnisbakken", category: "Keuken", number: "206" },
+  { name: "Staalpolish (250 ml)", category: "Keuken", number: "204", image: "images/204.jpg" },
+  { name: "Afzuigkapfilter Ontvetter (500 ml)", category: "Keuken", number: "205", image: "images/205.jpg" },
+  { name: "Tegen Stinkende Vuilnisbakken (500 g)", category: "Keuken", number: "206", image: "images/206.jpg" },
   { name: "Diepvriesontdooier", category: "Keuken", number: "207" },
-  { name: "Hygiënische Koelkastreiniger (500 ml)", category: "Keuken", number: "208" },
+  { name: "Hygiënische Koelkastreiniger (500 ml)", category: "Keuken", number: "208", image: "images/208.jpg" },
   { name: "Tegen Stinkende Vaatwassers", category: "Keuken", number: "209" },
   { name: "Glasreiniger Concentraat (500 ml)", category: "Woonkamer & Overige Vertrekken", number: "210", image: "images/210.jpg" },
   { name: "Stucwerk Reiniger", category: "Keuken", number: "211" },
   { name: "Verfontvetter Concentraat", category: "Keuken", number: "212" },
   { name: "Vloerlijm Verwijderaar", category: "Keuken", number: "213" },
-  { name: "Roestvrijstaal Beschermer", category: "Keuken", number: "214" },
+  { name: "Roestvrijstaal Beschermer (125 ml)", category: "Keuken", number: "214", image: "images/214.jpg" },
   { name: "Roestvrij Staal Snel Reiniger (300 ml)", category: "Keuken", number: "215" },
   { name: "Vetweg Spray (500 ml)", category: "Keuken", number: "216" },
   { name: "Natuursteen Aanrechtblad Reiniger", category: "Keuken", number: "217" },
@@ -81,17 +81,17 @@
   { name: "Eco Ontstopper", category: "Keuken", number: "221" },
   { name: "Keukenontstopper", category: "Keuken", number: "222" },
   { name: "Afvoerreiniger Keuken", category: "Keuken", number: "223" },
-  { name: "Afvoerstankverwijderaar", category: "Keuken", number: "224" },
+  { name: "Afvoerstankverwijderaar (500 g)", category: "Keuken", number: "224", image: "images/224.jpg" },
   { name: "Ovenreiniger Eco (500 ml)", category: "Keuken", number: "225" },
   { name: "Oven Grillreiniger (500 ml)", category: "Keuken", number: "226" },
   { name: "Power Gel Brush Oven (250 ml)", category: "Keuken", number: "227" },
   { name: "Oven & Grill Vernieuwingskit", category: "Keuken", number: "228" },
   { name: "Magnetronreiniger (500 ml)", category: "Keuken", number: "229" },
-  { name: "Airfryer Reiniger (250 ml)", category: "Keuken", number: "230" },
+  { name: "Airfryer Reiniger (250 ml)", category: "Keuken", number: "230", image: "images/230.jpg" },
   { name: "Frituurpan Reiniger", category: "Keuken", number: "231" },
   { name: "Eco Kookplaatreiniger", category: "Keuken", number: "232" },
-  { name: "Kookplaatreiniger", category: "Keuken", number: "233" },
-  { name: "Kookplaat Polish", category: "Keuken", number: "234" },
+  { name: "Kookplaatreiniger (500 ml)", category: "Keuken", number: "233", image: "images/233.jpg" },
+  { name: "Kookplaat Polish (250 ml)", category: "Keuken", number: "234", image: "images/234.jpg" },
   { name: "Keramische Kookplaat Reiniger (250 ml)", category: "Keuken", number: "234" },
   { name: "Reiniger & Ontkalker Waterkoker", category: "Keuken", number: "235" },
   { name: "Koffiemachine Ontkalker Eco (500 ml)", category: "Keuken", number: "236" },
@@ -105,53 +105,53 @@
   { name: "Hardhout Ontgrijzer", category: "Buiten", number: "243" },
   { name: "Hardhout Reiniger Diep", category: "Buiten", number: "243" },
   { name: "Tuinmeubelvernieuwer Hardhout (500 ml)", category: "Buiten", number: "244" },
-  { name: "Tuinmeubel Reiniger", category: "Buiten", number: "245" },
-  { name: "Roestvlekken Verwijderaar (500 ml)", category: "Buiten", number: "246" },
-  { name: "Oxydatie Verwijderaar (500 ml)", category: "Buiten", number: "246" },
-  { name: "Zonnepanelen Reiniger", category: "Buiten", number: "247" },
+  { name: "Tuinmeubel Reiniger (500 ml)", category: "Buiten", number: "245", image: "images/245.jpg" },
+  { name: "Roestvlekken Verwijderaar (500 ml)", category: "Buiten", number: "246", image: "images/246.jpg" },
+  { name: "Oxydatie Verwijderaar (500 ml)", category: "Buiten", number: "246", image: "images/246.jpg" },
+  { name: "Zonnepanelen Reiniger (500 ml)", category: "Buiten", number: "247", image: "images/247.jpg" },
   { name: "Waterdicht Scherm", category: "Buiten", number: "248" },
-  { name: "Zonnescherm Reiniger", category: "Buiten", number: "249" },
+  { name: "Zonneschermreiniger (500 ml)", category: "Buiten", number: "249", image: "images/249.jpg" },
   { name: "Terrastegel Reiniger", category: "Buiten", number: "250" },
   { name: "HGX tegen houtworm (500 ml)", category: "Buiten", number: "251", image: "images/251.jpg" },
-  { name: "Laminaat, Vinyl En PVC Beschermer (1 L)", category: "Vloeren", number: "353" },
+  { name: "Laminaat, Vinyl en PVC Beschermer (1 L)", category: "Vloeren", number: "353" },
   { name: "Laminaatglans (1 L)", category: "Vloeren", number: "353" },
   { name: "Ontkalker (500 ml)", category: "Wasruimte & Textiel", number: "301", image: "images/301.jpg" },
   { name: "Tegen Stinkende Wasmachines", category: "Wasruimte & Textiel", number: "302" },
   { name: "Onderhoudsmonteur Voor (vaat)wasmachines", category: "Wasruimte & Textiel", number: "303" },
   { name: "Oxi vlekverwijderaar (500 gram)", category: "Wasruimte & Textiel", number: "304", image: "images/304.jpg" },
-  { name: "Vlekweg 1 (Koffie, Wijn, Inkt) (50 ml)", category: "Wasruimte & Textiel", number: "305" },
-  { name: "Vlekweg Speciaal Nr 2", category: "Wasruimte & Textiel", number: "306" },
-  { name: "Onbekend", category: "Wasruimte & Textiel", number: "307" },
-  { name: "Onbekend", category: "Wasruimte & Textiel", number: "308" },
-  { name: "Vlekweg Speciaal Nr 5", category: "Wasruimte & Textiel", number: "309" },
-  { name: "Vlekweg 6 Kleurstoffen, Balpen", category: "Wasruimte & Textiel", number: "310" },
-  { name: "Vlekweg 7 Special Roest", category: "Wasruimte & Textiel", number: "311" },
-  { name: "Waterdicht Katoen, Linnen En Wol", category: "Wasruimte & Textiel", number: "313" },
-  { name: "Waterdicht Voor 100% Synthetisch Textiel", category: "Wasruimte & Textiel", number: "312" },
+  { name: "Vlekweg Nr 1 (Koffie, Wijn, Inkt) (50 ml)", category: "Wasruimte & Textiel", number: "305", image: "images/305.jpg" },
+  { name: "Vlekweg Nr 2 (viltstift, olie, vet, schoensmeer) (50 ml)", category: "Wasruimte & Textiel", number: "306", image: "images/306.jpg" },
+  { name: "Vlekweg Nr 3 (Kaarsvet, Hars, Teer) (50 ml)", category: "Wasruimte & Textiel", number: "307", image: "images/307.jpg" },
+  { name: "Vlekweg Nr 4 (Chocola, Melk, Saus, Bloed) (50 ml)", category: "Wasruimte & Textiel", number: "308", image: "images/308.jpg" },
+  { name: "Vlekweg Nr 5 (Kauwgum, Make-up, Gras) (50 ml)", category: "Wasruimte & Textiel", number: "309", image: "images/309.jpg" },
+  { name: "Vlekweg Nr 6 (Kleurstoffen, Balpen) (50 ml)", category: "Wasruimte & Textiel", number: "310", image: "images/310.jpg" },
+  { name: "Vlekweg Nr 7 (Roest) (50 ml)", category: "Wasruimte & Textiel", number: "311", image: "images/311.jpg" },
+  { name: "Waterdicht (katoen, linnen en wol) (300 ml)", category: "Wasruimte & Textiel", number: "313", image: "images/313.jpg" },
+  { name: "Waterdicht 100% synthetisch textiel (300 ml)", category: "Wasruimte & Textiel", number: "312", image: "images/312.jpg" },
   { name: "HG 4-in-1 Beschermer Voor Textiel en Leer (300 ml)", category: "Wasruimte & Textiel", number: "314", image: "images/314.jpg" },
   { name: "Tegen Nare Geurtjes In Textiel", category: "Wasruimte & Textiel", number: "315" },
   { name: "Schoendeo (250 ml)", category: "Wasruimte & Textiel", number: "321" },
   { name: "Tegen Stinkend Wasgoed Eco", category: "Wasruimte & Textiel", number: "322" },
-  { name: "Tegen Stinkend Wasgoed Wasmiddeltoevoeging", category: "Wasruimte & Textiel", number: "323" },
+  { name: "Tegen Stinkend Wasgoed Wasmiddeltoevoeging (500 g)", category: "Wasruimte & Textiel", number: "323", image: "images/323.jpg" },
   { name: "Tegen Nare Geurtjes In Sportkleding", category: "Wasruimte & Textiel", number: "324" },
   { name: "Vlekken Voorbehandeling Eco", category: "Wasruimte & Textiel", number: "325" },
   { name: "Op Reis Wasje (200 ml)", category: "Wasruimte & Textiel", number: "326" },
+  { name: "Autoreiniger en Beschermer (1 L)", category: "Schuur & Garage", number: "316", image: "images/316.jpg" },
   { name: "Auto Carwash Shampoo (1 L)", category: "Schuur & Garage", number: "316", image: "images/316.jpg" },
-  { name: "Autoreiniger En Beschermer (1 L)", category: "Schuur & Garage", number: "316", image: "images/316.jpg" },
   { name: "Velgenreiniger", category: "Schuur & Garage", number: "317" },
   { name: "Bekledingreiniger", category: "Schuur & Garage", number: "318" },
   { name: "Olievlekkenreiniger", category: "Schuur & Garage", number: "319" },
-  { name: "Roestverwijderaar (500 ml)", category: "Schuur & Garage", number: "320" },
-  { name: "Roestoplosser (500 ml)", category: "Schuur & Garage", number: "320" },
+  { name: "Roestverwijderaar (500 ml)", category: "Schuur & Garage", number: "320", image: "images/320.jpg" },
+  { name: "Roestoplosser (500 ml)", category: "Schuur & Garage", number: "320", image: "images/320.jpg" },
   { name: "Tegel Cementsluierverwijderaar", category: "Vloeren", number: "327" },
-  { name: "Tegel Cementrestenverwijderaar", category: "Vloeren", number: "328" },
+  { name: "Tegel Cementrestenverwijderaar (1000 ml)", category: "Vloeren", number: "328", image: "images/328.jpg" },
   { name: "Tegel Impregnerende Beschermer", category: "Vloeren", number: "329" },
   { name: "Tegelbeschermer", category: "Vloeren", number: "330" },
   { name: "Tegelreiniger", category: "Vloeren", number: "331" },
   { name: "Tegelreiniger Glans", category: "Vloeren", number: "332" },
   { name: "Tegelreiniger Extra Sterk", category: "Vloeren", number: "333" },
-  { name: "Voegenreiniger Concentraat", category: "Vloeren", number: "334" },
-  { name: "Wand En Vloervoegen Beschermer", category: "Vloeren", number: "335" },
+  { name: "Voegenreiniger Concentraat (500 ml)", category: "Vloeren", number: "334", image: "images/334.jpg" },
+  { name: "Wand en Vloervoegen Beschermer (250 ml)", category: "Vloeren", number: "335", image: "images/335.jpg" },
   { name: "Kleurverdieper", category: "Vloeren", number: "336" },
   { name: "Natuursteen Kleurverdieper (50 ml)", category: "Vloeren", number: "336" },
   { name: "Marmer Cementsluierverwijderaar", category: "Vloeren", number: "337" },
@@ -166,17 +166,17 @@
   { name: "Natuursteen Voedende Reiniger", category: "Vloeren", number: "343" },
   { name: "Olie Vlekken Absorbeerder", category: "Vloeren", number: "344" },
   { name: "Parketbeschermer Glans", category: "Vloeren", number: "345" },
-  { name: "Parket En Hout Reiniger", category: "Vloeren", number: "347" },
+  { name: "Parket en Hout Reiniger", category: "Vloeren", number: "347" },
   { name: "Parket Polish Remover (1 L)", category: "Vloeren", number: "348" },
   { name: "Hout Vloerolie", category: "Vloeren", number: "349" },
   { name: "Kunststof Beschermer", category: "Vloeren", number: "350" },
   { name: "Kunststofreiniger Glans", category: "Vloeren", number: "351" },
   { name: "Kunststofreiniger Extra Sterk", category: "Vloeren", number: "352" },
-  { name: "Laminaat, Vinyl En PVC Reiniger", category: "Vloeren", number: "354" },
-  { name: "Laminaat, Vinyl En PVC Reiniger Glans", category: "Vloeren", number: "355" },
-  { name: "Laminaat, Vinyl En PVC Reiniger Extra Sterk", category: "Vloeren", number: "356" },
+  { name: "Laminaat, Vinyl en PVC Reiniger", category: "Vloeren", number: "354" },
+  { name: "Laminaat, Vinyl en PVC Reiniger Glans", category: "Vloeren", number: "355" },
+  { name: "Laminaat, Vinyl en PVC Reiniger Extra Sterk", category: "Vloeren", number: "356" },
   { name: "Tapijtreiniger (1 L)", category: "Vloeren", number: "357" },
-  { name: "Tapijt Reiniger (500 ml)", category: "Vloeren", number: "358" },
+  { name: "Tapijt Reiniger (500 ml)", category: "Vloeren", number: "358", image: "images/358.jpg" },
   { name: "Schoonmaakazijn (1 liter)", category: "Vloeren", number: "359" },
   { name: "Schoonmaakazijn (5 L)", category: "Vloeren", number: "360" },
   { name: "Danny Seinen", role: "Manager", category: "Personeel Praxis 2240 Amersfoort", number: "2240-1", image: "images/2240-1.jpg" },
@@ -184,11 +184,11 @@
   { name: "Richard van Viersen", role: "Bouw, Senior, Sleuteldrager", category: "Personeel Praxis 2240 Amersfoort", number: "2240-3", birthday: "02-12-1977", image: "images/2240-3.jpg" },
   { name: "Marion Venema", category: "Personeel Praxis 2240 Amersfoort", number: "2240-4", birthday: "18-01-1967", image: "images/2240-4.jpg" },
   { name: "Laura Schreiner", role: "Kassa medewerkster, Student", category: "Personeel Praxis 2240 Amersfoort", number: "2240-5", birthday: "31-03-2004", image: "images/2240-5.jpg" },
-  { name: "Djalil Sjariefie", category: "Personeel Praxis 2240 Amersfoort", number: "2240-6", birthday: "25-08-1986", image: "images/2240-6.jpg" },
+  { name: "Djalil Sjariefie", role: "Verkoopmedewerker", category: "Personeel Praxis 2240 Amersfoort", number: "2240-6", birthday: "25-08-1986", image: "images/2240-6.jpg" },
   { name: "Marcel de Heusden gezegd van der Sluyse", role: "Verkoopmedewerker", category: "Personeel Praxis 2240 Amersfoort", number: "2240-7", birthday: "03-06-1960", image: "images/2240-7.jpg" },
   { name: "Bram de Gelder", role: "Verkoopmedewerker", category: "Personeel Praxis 2240 Amersfoort", number: "2240-8", birthday: "29-05-2001", image: "images/2240-8.jpg" },
   { name: "Muhammed Atabey", role: "Verkoopmedewerker", category: "Personeel Praxis 2240 Amersfoort", number: "2240-9", birthday: "14-02-1999", image: "images/2240-9.jpg" },
-  { name: "Nanda Felten", role: "Verkoopmedewerker, Kassamedewerker", category: "Personeel Praxis 2240 Amersfoort", number: "2240-10", birthday: "19-05-1972" },
+  { name: "Nanda Felten", role: "Verkoopmedewerker, Kassamedewerker", category: "Personeel Praxis 2240 Amersfoort", number: "2240-10", birthday: "19-05-1972", image: "images/2240-10.jpg" },
   { name: "Daphne Susan", role: "Kassamedewerker, Verkoopondersteuning", category: "Personeel Praxis 2240 Amersfoort", number: "2240-11", birthday: "26-05-1972", image: "images/2240-11.jpg" },
   { name: "Danique Smit", role: "Kassamedewerker", category: "Personeel Praxis 2240 Amersfoort", number: "2240-12", birthday: "19-05-1998", image: "images/2240-12.jpg" },
   { name: "Matthijs uit den Boogaard", role: "Verkoopmedewerker, Sleuteldrager", category: "Personeel Praxis 2240 Amersfoort", number: "2240-13", birthday: "17-12-1994", image: "images/2240-13.jpg" },
@@ -352,7 +352,13 @@ function setResult(product, query, searchMode = "name") {
   `;
 }
 
-function renderList(items, label = null) {
+function selectProduct(product) {
+  searchInput.value = product.name;
+  updateSearch();
+  searchInput.focus();
+}
+
+function renderList(items, label = null, options = {}) {
   productList.innerHTML = "";
   countLabel.textContent = label || `${items.length} gevonden`;
   const sortedItems = sortProducts(items);
@@ -363,21 +369,31 @@ function renderList(items, label = null) {
   }
 
   for (const product of sortedItems) {
-    const row = document.createElement("button");
-    row.className = "product-row";
-    row.type = "button";
+    const row = document.createElement(options.numberOnlyClick ? "div" : "button");
+    row.className = `product-row${options.numberOnlyClick ? " product-row-static" : ""}`;
+
+    if (!options.numberOnlyClick) {
+      row.type = "button";
+    }
+
+    const numberMarkup = options.numberOnlyClick
+      ? `<button type="button" class="product-number" aria-label="Toon ${product.name}">${product.number}</button>`
+      : `<span class="product-number">${product.number}</span>`;
+
     row.innerHTML = `
       <span class="product-info">
         <span class="product-name">${product.name}</span>
         <span class="product-category">${product.category}</span>
       </span>
-      <span class="product-number">${product.number}</span>
+      ${numberMarkup}
     `;
-    row.addEventListener("click", () => {
-      searchInput.value = product.name;
-      updateSearch();
-      searchInput.focus();
-    });
+
+    if (options.numberOnlyClick) {
+      row.querySelector(".product-number").addEventListener("click", () => selectProduct(product));
+    } else {
+      row.addEventListener("click", () => selectProduct(product));
+    }
+
     productList.append(row);
   }
 }
@@ -410,7 +426,7 @@ result.addEventListener("click", (event) => {
 
   const category = colorButton.dataset.category;
   const categoryProducts = products.filter((product) => product.category === category);
-  renderList(categoryProducts, `${categoryProducts.length} in groep`);
+  renderList(categoryProducts, `${categoryProducts.length} in groep`, { numberOnlyClick: true });
 });
 clearButton.addEventListener("click", () => {
   searchInput.value = "";
