@@ -1,17 +1,17 @@
 ﻿const products = [
-  { name: "Beeldschermreiniger", category: "Woonkamer & Overige Vertrekken", number: "101", image: "images/101.jpg" },
-  { name: "Brilreiniger (120 ml)", category: "Woonkamer & Overige Vertrekken", number: "102", image: "images/102.jpg" },
-  { name: "Zilverpoets (125 ml)", category: "Woonkamer & Overige Vertrekken", number: "103", image: "images/103.jpg" },
-  { name: "Zilverglans (125 ml)", category: "Woonkamer & Overige Vertrekken", number: "103", image: "images/103.jpg" },
+  { name: "Beeldschermreiniger", category: "Woonkamer & Overige Vertrekken", number: "101", image: "images/101.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/schoonmaakmiddelen/glasreinigers/hg-beeldscherm-reiniger-125ml/5641590" },
+  { name: "Brilreiniger (120 ml)", category: "Woonkamer & Overige Vertrekken", number: "102", image: "images/102.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/schoonmaakmiddelen/allesreinigers/hg-brilreiniger-fles-125ml/2483475" },
+  { name: "Zilverpoets (125 ml)", category: "Woonkamer & Overige Vertrekken", number: "103", image: "images/103.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/onderhouds-restauratie-producten-voor-specifieke-oppervlakken/metaalreiniging-roestverwijderaars/metaalreinigers/hg-zilver-polish-125ml/2431943" },
+  { name: "Zilverglans (125 ml)", category: "Woonkamer & Overige Vertrekken", number: "103", image: "images/103.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/onderhouds-restauratie-producten-voor-specifieke-oppervlakken/metaalreiniging-roestverwijderaars/metaalreinigers/hg-zilver-polish-125ml/2431943" },
   { name: "Koper Reiniger", category: "Woonkamer & Overige Vertrekken", number: "104" },
   { name: "Koper Glans Shampoo", category: "Woonkamer & Overige Vertrekken", number: "104" },
-  { name: "Kachelruitjesreiniger (500 ml)", category: "Woonkamer & Overige Vertrekken", number: "105", image: "images/105.jpg" },
-  { name: "Vlekverwijderaar Extreem Sterk (500 ml)", category: "Woonkamer & Overige Vertrekken", number: "106", image: "images/106.jpg" },
-  { name: "Vlekkenspray Extreem Sterk (500 ml)", category: "Woonkamer & Overige Vertrekken", number: "106", image: "images/106.jpg" },
-  { name: "Stofzuigerlucht verfrisser (180 g)", category: "Woonkamer & Overige Vertrekken", number: "107", image: "images/107.jpg" },
+  { name: "Kachelruitjesreiniger (500 ml)", category: "Woonkamer & Overige Vertrekken", number: "105", image: "images/105.jpg", praxisUrl: "https://www.praxis.nl/verwarmingen-airco-s/kachels-haarden/schoorsteenvegen-onderhoud/onderhoudsproducten-voor-kachel-haard/hg-kachelruitreiniger-500ml/2433469" },
+  { name: "Vlekverwijderaar Extreem Sterk (500 ml)", category: "Woonkamer & Overige Vertrekken", number: "106", image: "images/106.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/wassen-strijken/was-textiel-reinigingsmiddelen/textielreinigers/hg-vlekverwijderaar-extra-sterk-500ml/5544894" },
+  { name: "Vlekkenspray Extreem Sterk (500 ml)", category: "Woonkamer & Overige Vertrekken", number: "106", image: "images/106.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/wassen-strijken/was-textiel-reinigingsmiddelen/textielreinigers/hg-vlekverwijderaar-extra-sterk-500ml/5544894" },
+  { name: "Stofzuigerlucht verfrisser (180 g)", category: "Woonkamer & Overige Vertrekken", number: "107", image: "images/107.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/huishoudelijke-apparaten/stofzuigers-accessoires/stofzuigerzakken/hg-stofzuiger-luchtverfrisser-180gr/5229752" },
   { name: "Meubelglans (300 ml)", category: "Woonkamer & Overige Vertrekken", number: "108" },
   { name: "Meubelbeschermer (300 ml)", category: "Woonkamer & Overige Vertrekken", number: "108" },
-  { name: "Meubelhersteller Donker Hout, Meubelline", category: "Woonkamer & Overige Vertrekken", number: "109" },
+  { name: "Meubelhersteller Donker Hout, Meubelline (250 ml)", category: "Woonkamer & Overige Vertrekken", number: "109", image: "images/109.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/hout-onderhoud-reparatie/olie-wasverwijderaars/meubelshampoo-olieverwijderaars/meubeline-hg-meubelhersteller-donker-hout-250ml/2432156" },
   { name: "Meubelhersteller Licht Hout, Meubelline", category: "Woonkamer & Overige Vertrekken", number: "110" },
   { name: "Verzorgende Meubelolie", category: "Woonkamer & Overige Vertrekken", number: "111" },
   { name: "Natuursteen Crystalizer (250 ml)", category: "Woonkamer & Overige Vertrekken", number: "112" },
@@ -28,17 +28,17 @@
   { name: "Perslucht", category: "Woonkamer & Overige Vertrekken", number: "202" },
   { name: "Behanglijmverwijderaar", category: "Woonkamer & Overige Vertrekken", number: "203" },
   { name: "Behang Verwijderaar", category: "Woonkamer & Overige Vertrekken", number: "203" },
-  { name: "Haarontstopper", category: "Badkamer & Toilet", number: "121" },
-  { name: "Gelontstopper", category: "Badkamer & Toilet", number: "122" },
-  { name: "Ontstopper Supersnel In 5 Minuten", category: "Badkamer & Toilet", number: "123" },
-  { name: "Ontstopper Vloeibaar (500 ml)", category: "Badkamer & Toilet", number: "124" },
+  { name: "Haarontstopper (450 ml)", category: "Badkamer & Toilet", number: "121", image: "images/121.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/rioolontstoppers-onderhoud/ontstoppingsgels/hg-haarontstopper-450ml/5654687" },
+  { name: "Gelontstopper (1 l)", category: "Badkamer & Toilet", number: "122", image: "images/122.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/rioolontstoppers-onderhoud/ontstoppingsgels/hg-gelontstopper-1l/5696609" },
+  { name: "Ontstopper (Super snel in 5 min) (1000 ml)", category: "Badkamer & Toilet", number: "123", image: "images/123.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/rioolontstoppers-onderhoud/ontstoppingsgels/hg-vloeibare-ontstopper-1l/2431550" },
+  { name: "Vloeibare Ontstopper (500 ml)", category: "Badkamer & Toilet", number: "124", image: "images/124.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/rioolontstoppers-onderhoud/ontstoppingsgels/hg-vloeibare-ontstopper-500ml/5544892" },
   { name: "Afvoerreiniger Badkamer 6 St", category: "Badkamer & Toilet", number: "125" },
   { name: "Schimmel Vocht & Weerplekken Reiniger", category: "Badkamer & Toilet", number: "126", image: "images/126.jpg" },
-  { name: "Schimmelreiniger Schuimspray Bewezen Effectief", category: "Badkamer & Toilet", number: "127" },
-  { name: "Schimmelbeschermer (500 ml)", category: "Badkamer & Toilet", number: "128" },
-  { name: "Voegenreiniger Spray", category: "Badkamer & Toilet", number: "129" },
-  { name: "Power Gel Brush", category: "Badkamer & Toilet", number: "130" },
-  { name: "Alle Nare Geurtjes Weg", category: "Badkamer & Toilet", number: "131" },
+  { name: "Schimmelreiniger Schuimspray Bewezen Effectief (500 ml)", category: "Badkamer & Toilet", number: "127", image: "images/127.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/schoonmaakmiddelen/schimmelreinigers/hg-schimmelreiniger-schuimspray-500ml/5544891" },
+  { name: "Schimmelbeschermer (500 ml)", category: "Badkamer & Toilet", number: "128", image: "images/128.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/schoonmaakmiddelen/schimmelreinigers/hg-schimmelbeschermer-500ml/10370812" },
+  { name: "Voegenreiniger (500 ml)", category: "Badkamer & Toilet", number: "129", image: "images/129.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/schoonmaakmiddelen/voegenreinigers/hg-voegenreiniger-kant-en-klaar-500ml/5294650" },
+  { name: "Power Gel Brush Voegen (250 ml)", category: "Badkamer & Toilet", number: "130", image: "images/130.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/schoonmaakmiddelen/voegenreinigers/hg-allesreiniger-power-gel-brush-voegen-0-25l/10216928" },
+  { name: "Alle Nare Geurtjes Weg (500 ml)", category: "Badkamer & Toilet", number: "131", image: "images/131.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/wassen-strijken/was-textiel-reinigingsmiddelen/textiel-ontgeurders/hg-allesreiniger-alle-nare-geurtjes-weg-0-5l/2431812" },
   { name: "Eco Toiletruimte Reiniger", category: "Badkamer & Toilet", number: "132" },
   { name: "Toiletruimte Reiniger Elke Dag", category: "Badkamer & Toilet", number: "133" },
   { name: "Eco Toiletgel", category: "Badkamer & Toilet", number: "134" },
@@ -57,27 +57,28 @@
   { name: "Power Foam Badkamer", category: "Badkamer & Toilet", number: "147" },
   { name: "Natuursteen Cleaner", category: "Badkamer & Toilet", number: "148" },
   { name: "Marmer Cleaner", category: "Badkamer & Toilet", number: "148" },
-  { name: "Power Foam Douche", category: "Badkamer & Toilet", number: "149" },
+  { name: "Power foam Douche (self acting) (300 ml)", category: "Badkamer & Toilet", number: "149", image: "images/149.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/schoonmaakmiddelen/schoonmaakmiddelen-voor-badkamer-toilet/badkamerreinigers/hg-badkamerreiniger-power-foam-douche-0-3l/10216932" },
   { name: "Siliconenkitverwijderaar", category: "Badkamer & Toilet", number: "150" },
   { name: "Douchecabine Beschermer", category: "Badkamer & Toilet", number: "151" },
-  { name: "Hygiënische Whirlpoolreiniger", category: "Badkamer & Toilet", number: "152" },
-  { name: "Staalpolish (250 ml)", category: "Keuken", number: "204", image: "images/204.jpg" },
-  { name: "Afzuigkapfilter Ontvetter (500 ml)", category: "Keuken", number: "205", image: "images/205.jpg" },
-  { name: "Tegen Stinkende Vuilnisbakken (500 g)", category: "Keuken", number: "206", image: "images/206.jpg" },
-  { name: "Diepvriesontdooier", category: "Keuken", number: "207" },
-  { name: "Hygiënische Koelkastreiniger (500 ml)", category: "Keuken", number: "208", image: "images/208.jpg" },
-  { name: "Tegen Stinkende Vaatwassers", category: "Keuken", number: "209" },
+  { name: "Hygiënische Whirlpoolreiniger (1000 ml)", category: "Badkamer & Toilet", number: "152", image: "images/152.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/schoonmaakmiddelen/schoonmaakmiddelen-voor-badkamer-toilet/badkamerreinigers/hg-allesreiniger-hygienische-whirlpoolreiniger-1l/2743343" },
+  { name: "Staalpolish (250 ml)", category: "Keuken", number: "204", image: "images/204.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/onderhouds-restauratie-producten-voor-specifieke-oppervlakken/metaalreiniging-roestverwijderaars/metaalreinigers/hg-staalpolish-250ml/2431901" },
+  { name: "Afzuigkapfilter Ontvetter (500 ml)", category: "Keuken", number: "205", image: "images/205.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/schoonmaakmiddelen/ontvetters/huishoudontvetters/hg-afzuigkapfilter-ontvetter-500ml/5229746" },
+  { name: "Tegen Stinkende Vuilnisbakken (500 g)", category: "Keuken", number: "206", image: "images/206.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/luchtverfrissers/hg-reiniger-voor-stinkende-vuilnisbakken-500gr/5594509" },
+  { name: "Diepvriesontdooier (500 ml)", category: "Keuken", number: "207", image: "images/207.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/schoonmaakmiddelen/keukenreinigers/koelkast-reinigingsmiddelen/hg-diepvries-ontdooier-500ml/5143938" },
+  { name: "Hygiënische Koelkastreiniger (500 ml)", category: "Keuken", number: "208", image: "images/208.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/schoonmaakmiddelen/keukenreinigers/koelkast-reinigingsmiddelen/hg-allesreiniger-hygienische-koelkastreiniger-frisse-geur-500ml/4743063" },
+  { name: "Tegen Stinkende Vaatwassers (500 g)", category: "Keuken", number: "209", image: "images/209.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/schoonmaakmiddelen/keukenreinigers/afwasmiddelen/hg-reiniger-tegen-stinkende-vaatwasser-550gr/5553444" },
   { name: "Glasreiniger Concentraat (500 ml)", category: "Woonkamer & Overige Vertrekken", number: "210", image: "images/210.jpg" },
   { name: "Stucwerk Reiniger", category: "Keuken", number: "211" },
   { name: "Verfontvetter Concentraat", category: "Keuken", number: "212" },
-  { name: "Vloerlijm Verwijderaar", category: "Keuken", number: "213" },
-  { name: "Roestvrijstaal Beschermer (125 ml)", category: "Keuken", number: "214", image: "images/214.jpg" },
-  { name: "Roestvrij Staal Snel Reiniger (300 ml)", category: "Keuken", number: "215" },
-  { name: "Vetweg Spray (500 ml)", category: "Keuken", number: "216" },
-  { name: "Natuursteen Aanrechtblad Reiniger", category: "Keuken", number: "217" },
-  { name: "Topprotector (100 ml)", category: "Keuken", number: "218" },
-  { name: "Self Act Power Foam", category: "Keuken", number: "219" },
-  { name: "Duo Ontstopper Extreem Sterk", category: "Keuken", number: "220" },
+  { name: "Vloerlijm Verwijderaar (750 ml)", category: "Keuken", number: "213", image: "images/213.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/oplosmiddelen-afbijtmiddelen-reinigers/oplosmiddelen/hg-vloerlijmverwijderaar-750ml/2743275" },
+  { name: "Roestvrijstaal Beschermer (125 ml)", category: "Keuken", number: "214", image: "images/214.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/schoonmaakmiddelen/keukenreinigers/rvs-reinigers/hg-roestvrijstaal-beschermer-125ml/5073103" },
+  { name: "Roestvrijstaal Reiniger (300 ml)", category: "Keuken", number: "215", image: "images/215.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/schoonmaakmiddelen/keukenreinigers/rvs-reinigers/hg-rvs-snelreiniger-300ml/4743037" },
+  { name: "Vetweg Spray (500 ml)", category: "Keuken", number: "216", image: "images/216.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/schoonmaakmiddelen/ontvetters/huishoudontvetters/hg-allesreiniger-vetweg-0-5l/2431854" },
+  { name: "Natuursteen Aanrechtblad Reiniger (500 ml)", category: "Keuken", number: "217", image: "images/217.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/schoonmaakmiddelen/keukenreinigers/keukenkast-aanrechtblad-reinigers/hg-keukenreiniger-natuursteen-aanrechtblad-500ml/4743079" },
+  { name: "Natuursteen Aanrechtblad Beschermer (100 ml)", category: "Keuken", number: "218", image: "images/218.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/onderhouds-restauratie-producten-voor-specifieke-oppervlakken/natuursteen-marmer-onderhoud/hg-topprotector-natuursteen-100ml/2431461" },
+  { name: "Power foam (self acting) (300 ml)", category: "Keuken", number: "219", image: "images/219.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/schoonmaakmiddelen/keukenreinigers/keukenkast-aanrechtblad-reinigers/hg-power-foam-keuken-reinigend-schuim-300ml/10216930" },
+  { name: "Duo Ontstopper Extreem Sterk (2x500 ml)", category: "Keuken", number: "220", image: "images/220-a.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/rioolontstoppers-onderhoud/ontstoppingsgels/hg-duo-ontstopper-1l/4743131" },
+  { name: "Duo Ontstopper Extreem Sterk (2x500 ml)", category: "Keuken", number: "220", image: "images/220-b.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/rioolontstoppers-onderhoud/ontstoppingsgels/hg-duo-ontstopper-1l/4743131" },
   { name: "Eco Ontstopper", category: "Keuken", number: "221" },
   { name: "Keukenontstopper", category: "Keuken", number: "222" },
   { name: "Afvoerreiniger Keuken", category: "Keuken", number: "223" },
@@ -89,8 +90,8 @@
   { name: "Magnetronreiniger (500 ml)", category: "Keuken", number: "229" },
   { name: "Airfryer Reiniger (250 ml)", category: "Keuken", number: "230", image: "images/230.jpg" },
   { name: "Frituurpan Reiniger", category: "Keuken", number: "231" },
-  { name: "Eco Kookplaatreiniger", category: "Keuken", number: "232" },
-  { name: "Kookplaatreiniger (500 ml)", category: "Keuken", number: "233", image: "images/233.jpg" },
+  { name: "Eco Kookplaatreiniger", category: "Keuken", number: "232", image: "images/232.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/schoonmaakmiddelen/keukenreinigers/kookplaatreinigers/hg-allesreiniger-eco-kookplaatreiniger-0-5l/10119764" },
+  { name: "Kookplaatreiniger (500 ml)", category: "Keuken", number: "233", image: "images/233.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/schoonmaakmiddelen/keukenreinigers/kookplaatreinigers/hg-kookplaatreiniger-500ml/2431849" },
   { name: "Kookplaat Polish (250 ml)", category: "Keuken", number: "234", image: "images/234.jpg" },
   { name: "Keramische Kookplaat Reiniger (250 ml)", category: "Keuken", number: "234" },
   { name: "Reiniger & Ontkalker Waterkoker", category: "Keuken", number: "235" },
@@ -134,7 +135,7 @@
   { name: "Tegen Stinkend Wasgoed Eco", category: "Wasruimte & Textiel", number: "322" },
   { name: "Tegen Stinkend Wasgoed Wasmiddeltoevoeging (500 g)", category: "Wasruimte & Textiel", number: "323", image: "images/323.jpg" },
   { name: "Tegen Nare Geurtjes In Sportkleding", category: "Wasruimte & Textiel", number: "324" },
-  { name: "Vlekken Voorbehandeling Eco", category: "Wasruimte & Textiel", number: "325" },
+  { name: "Vlekken voorbehandeling (ECO)", category: "Wasruimte & Textiel", number: "325", image: "images/325.jpg" },
   { name: "Op Reis Wasje (200 ml)", category: "Wasruimte & Textiel", number: "326" },
   { name: "Autoreiniger en Beschermer (1 L)", category: "Schuur & Garage", number: "316", image: "images/316.jpg" },
   { name: "Auto Carwash Shampoo (1 L)", category: "Schuur & Garage", number: "316", image: "images/316.jpg" },
@@ -204,6 +205,7 @@ const searchInput = document.querySelector("#productSearch");
 const clearButton = document.querySelector("#clearSearch");
 const result = document.querySelector("#result");
 const productList = document.querySelector("#productList");
+const listTitle = document.querySelector("#list-title");
 const countLabel = document.querySelector("#countLabel");
 
 function normalize(value) {
@@ -296,7 +298,7 @@ function setResult(product, query, searchMode = "name") {
     result.classList.add("idle");
     result.innerHTML = `
       <span class="result-label">Resultaat</span>
-      <strong>Voer een product in</strong>
+      <strong>Nog geen resultaat</strong>
     `;
     return;
   }
@@ -332,6 +334,13 @@ function setResult(product, query, searchMode = "name") {
       </span>
     `
     : "";
+  const praxisLinkMarkup = product.praxisUrl
+    ? `
+      <a class="praxis-result-link" href="${product.praxisUrl}" target="_blank" rel="noopener" aria-label="Bekijk ${product.name} bij Praxis">
+        <img src="logo-voor-app.png" alt="" />
+      </a>
+    `
+    : "";
 
   result.innerHTML = `
     <span class="result-label">${label}</span>
@@ -340,13 +349,16 @@ function setResult(product, query, searchMode = "name") {
         ${mainResult}
         ${detailsMarkup}
       </span>
-      <button
-        type="button"
-        class="category-color"
-        data-category="${product.category}"
-        style="background: ${getCategoryColor(product.category)}"
-        aria-label="Toon alle artikelen uit ${product.category}"
-      ></button>
+      <span class="result-actions">
+        ${praxisLinkMarkup}
+        <button
+          type="button"
+          class="category-color"
+          data-category="${product.category}"
+          style="background: ${getCategoryColor(product.category)}"
+          aria-label="Toon alle artikelen uit ${product.category}"
+        ></button>
+      </span>
     </span>
     ${imageMarkup}
   `;
@@ -360,6 +372,7 @@ function selectProduct(product) {
 
 function renderList(items, label = null, options = {}) {
   productList.innerHTML = "";
+  listTitle.textContent = options.title || "Producten";
   countLabel.textContent = label || `${items.length} gevonden`;
   const sortedItems = sortProducts(items);
 
@@ -426,7 +439,10 @@ result.addEventListener("click", (event) => {
 
   const category = colorButton.dataset.category;
   const categoryProducts = products.filter((product) => product.category === category);
-  renderList(categoryProducts, `${categoryProducts.length} in groep`, { numberOnlyClick: true });
+  renderList(categoryProducts, `${categoryProducts.length} in groep`, {
+    numberOnlyClick: true,
+    title: category.startsWith("Personeel") ? "Personeel" : "Producten",
+  });
 });
 clearButton.addEventListener("click", () => {
   searchInput.value = "";
