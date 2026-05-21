@@ -15,14 +15,14 @@
   { name: "Meubelhersteller Licht Hout, Meubelline", category: "Woonkamer & Overige Vertrekken", number: "110" },
   { name: "Verzorgende Meubelolie", category: "Woonkamer & Overige Vertrekken", number: "111" },
   { name: "Natuursteen Crystalizer (250 ml)", category: "Woonkamer & Overige Vertrekken", number: "112" },
-  { name: "4 In 1 Voor Leer", category: "Woonkamer & Overige Vertrekken", number: "113" },
-  { name: "Dieptereiniger Voor Leer", category: "Woonkamer & Overige Vertrekken", number: "114" },
-  { name: "Leerspray", category: "Woonkamer & Overige Vertrekken", number: "115" },
-  { name: "Stickerverwijderaar", category: "Woonkamer & Overige Vertrekken", number: "116" },
-  { name: "Hygiënische Matras Opfrisser", category: "Woonkamer & Overige Vertrekken", number: "117" },
+  { name: "4 In 1 Voor Leer (250 ml)", category: "Woonkamer & Overige Vertrekken", number: "113", image: "images/113.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/onderhouds-restauratie-producten-voor-specifieke-oppervlakken/leerverzorging-onderhoud/leerolie/hg-4-in-1-leer-afdichtingsmiddel-250ml/2432051" },
+  { name: "Dieptereiniger voor leer (250 ml)", category: "Woonkamer & Overige Vertrekken", number: "114", image: "images/114.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/onderhouds-restauratie-producten-voor-specifieke-oppervlakken/leerverzorging-onderhoud/leerreinigers/hg-allesreiniger-dieptereiniger-voor-leer-0-25l/2432067" },
+  { name: "Leerreiniger (300 ml)", category: "Woonkamer & Overige Vertrekken", number: "115", image: "images/115.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/onderhouds-restauratie-producten-voor-specifieke-oppervlakken/leerverzorging-onderhoud/leerreinigers/hg-leerreiniger-spray-300ml/5544884" },
+  { name: "Stickerverwijderaar (300 ml)", category: "Woonkamer & Overige Vertrekken", number: "116", image: "images/116.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/oplosmiddelen-afbijtmiddelen-reinigers/oplosmiddelen/hg-stickeroplosser-300ml/2431828" },
+  { name: "Hygiënische Matras Opfrisser (500 ml)", category: "Woonkamer & Overige Vertrekken", number: "117", image: "images/117.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/schoonmaakmiddelen/ontsmettingsmiddelen/hg-hygienische-matras-opfrisser-500ml/5553443" },
   { name: "Alle Nare Geurtjes Weg (500 ml)", category: "Woonkamer & Overige Vertrekken", number: "118", image: "images/118.jpg" },
-  { name: "Kunststof Reiniger", category: "Woonkamer & Overige Vertrekken", number: "119" },
-  { name: "Glasreiniger", category: "Woonkamer & Overige Vertrekken", number: "120" },
+  { name: "Kunststof Reiniger (500 ml)", category: "Woonkamer & Overige Vertrekken", number: "119", image: "images/119.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/onderhouds-restauratie-producten-voor-specifieke-oppervlakken/onderhoud-speciale-ondergronden/hg-allesreiniger-kunststof-intensief-0-5l/5341378" },
+  { name: "Glasreiniger (500 ml)", category: "Woonkamer & Overige Vertrekken", number: "120", image: "images/120.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/schoonmaakmiddelen/glasreinigers/hg-glasreiniger-streeploze-spray-0-5l/2431875" },
   { name: "Marmerpolish (300 ml)", category: "Woonkamer & Overige Vertrekken", number: "201" },
   { name: "Luchtdrukreiniger Kiertjes en Gaatjes", category: "Woonkamer & Overige Vertrekken", number: "202" },
   { name: "Perslucht", category: "Woonkamer & Overige Vertrekken", number: "202" },
@@ -53,13 +53,13 @@
   { name: "Kalkweg Concentraat (1 L)", category: "Badkamer & Toilet", number: "143" },
   { name: "Kalkweg Concentraat (500 ml)", category: "Badkamer & Toilet", number: "144" },
   { name: "Natuursteen Badkamerreiniger", category: "Badkamer & Toilet", number: "145" },
-  { name: "Douche en Wasbak Spray", category: "Badkamer & Toilet", number: "146" },
+  { name: "Douche en Wasbak Spray (500 ml)", category: "Badkamer & Toilet", number: "146", image: "images/146.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/schoonmaakmiddelen/schoonmaakmiddelen-voor-badkamer-toilet/badkamerreinigers/hg-badkamerreiniger-douche-en-wasbak-spray-0-5l/2431477" },
   { name: "Power Foam Badkamer", category: "Badkamer & Toilet", number: "147" },
   { name: "Natuursteen Cleaner", category: "Badkamer & Toilet", number: "148" },
   { name: "Marmer Cleaner", category: "Badkamer & Toilet", number: "148" },
   { name: "Power foam Douche (self acting) (300 ml)", category: "Badkamer & Toilet", number: "149", image: "images/149.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/schoonmaakmiddelen/schoonmaakmiddelen-voor-badkamer-toilet/badkamerreinigers/hg-badkamerreiniger-power-foam-douche-0-3l/10216932" },
-  { name: "Siliconenkitverwijderaar", category: "Badkamer & Toilet", number: "150" },
-  { name: "Douchecabine Beschermer", category: "Badkamer & Toilet", number: "151" },
+  { name: "Siliconenkitverwijderaar (100 ml)", category: "Badkamer & Toilet", number: "150", image: "images/150.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/oplosmiddelen-afbijtmiddelen-reinigers/oplosmiddelen/siliconenkitverwijderaar-hg-100ml/2431786" },
+  { name: "Douchecabine Beschermer (250 ml)", category: "Badkamer & Toilet", number: "151", image: "images/151.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/schoonmaakmiddelen/schoonmaakmiddelen-voor-badkamer-toilet/badkamerreinigers/hg-douchecabine-beschermer-250ml/5037469" },
   { name: "Hygiënische Whirlpoolreiniger (1000 ml)", category: "Badkamer & Toilet", number: "152", image: "images/152.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/schoonmaakmiddelen/schoonmaakmiddelen-voor-badkamer-toilet/badkamerreinigers/hg-allesreiniger-hygienische-whirlpoolreiniger-1l/2743343" },
   { name: "Staalpolish (250 ml)", category: "Keuken", number: "204", image: "images/204.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/onderhouds-restauratie-producten-voor-specifieke-oppervlakken/metaalreiniging-roestverwijderaars/metaalreinigers/hg-staalpolish-250ml/2431901" },
   { name: "Afzuigkapfilter Ontvetter (500 ml)", category: "Keuken", number: "205", image: "images/205.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/schoonmaakmiddelen/ontvetters/huishoudontvetters/hg-afzuigkapfilter-ontvetter-500ml/5229746" },
@@ -175,7 +175,7 @@
   { name: "Kunststofreiniger Extra Sterk", category: "Vloeren", number: "352" },
   { name: "Laminaat, Vinyl en PVC Reiniger", category: "Vloeren", number: "354" },
   { name: "Laminaat, Vinyl en PVC Reiniger Glans", category: "Vloeren", number: "355" },
-  { name: "Laminaat, Vinyl en PVC Reiniger Extra Sterk", category: "Vloeren", number: "356" },
+  { name: "Laminaat, Vinyl en PVC Reiniger Extra Sterk (1000 ml)", category: "Vloeren", number: "356", image: "images/356.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/schoonmaakmiddelen/vloerreinigingsmiddelen/laminaatreinigers/hg-vloerreiniger-laminaat-vinyl-en-pvc-extra-sterk-1l/2431587" },
   { name: "Tapijtreiniger (1 L)", category: "Vloeren", number: "357" },
   { name: "Tapijt Reiniger (500 ml)", category: "Vloeren", number: "358", image: "images/358.jpg" },
   { name: "Schoonmaakazijn (1 liter)", category: "Vloeren", number: "359" },
@@ -195,7 +195,7 @@
   { name: "Matthijs uit den Boogaard", role: "Verkoopmedewerker, Sleuteldrager", category: "Personeel Praxis 2240 Amersfoort", number: "2240-13", birthday: "17-12-1994", image: "images/2240-13.jpg" },
   { name: "Albert Bokkers", role: "Verkoopmedewerker, Sleuteldrager, BHV", category: "Personeel Praxis 2240 Amersfoort", number: "2240-14", birthday: "12-07-1971", image: "images/2240-14.jpg" },
   { name: "Martijn Schaap", role: "Verkoopmedewerker", category: "Personeel Praxis 2240 Amersfoort", number: "2240-15" },
-  { name: "Onbekend", category: "Personeel Praxis 2240 Amersfoort", number: "2240-16" },
+  { name: "Levi Bras", category: "Personeel Praxis 2240 Amersfoort", number: "2240-16" },
   { name: "Onbekend", category: "Personeel Praxis 2240 Amersfoort", number: "2240-17" },
   { name: "Onbekend", category: "Personeel Praxis 2240 Amersfoort", number: "2240-18" },
   { name: "Onbekend", category: "Personeel Praxis 2240 Amersfoort", number: "2240-19" },
@@ -254,6 +254,14 @@ function getCategoryColor(category) {
 
 function isStaff(product) {
   return product.category.startsWith("Personeel");
+}
+
+function getDisplayImage(product) {
+  if (!product.image || isStaff(product)) {
+    return product.image;
+  }
+
+  return product.image.replace(/^images\//, "images/cutout/").replace(/\.(jpe?g)$/i, ".png");
 }
 
 function getNumberParts(number) {
@@ -318,8 +326,8 @@ function setResult(product, query, searchMode = "name") {
       : `<strong>${product.number}</strong>`;
   const label =
     searchMode === "number"
-      ? `${product.category} - nummer ${product.number}`
-      : `${product.category} - ${product.name}`;
+      ? `${product.category} · nummer ${product.number}`
+      : `${product.category} · ${product.name}`;
   const roleMarkup = product.role ? `<span class="person-role">${product.role}</span>` : "";
   const birthdayMarkup = product.birthday
     ? `<span class="person-details">Geboortedatum: ${product.birthday}</span>`
@@ -330,14 +338,14 @@ function setResult(product, query, searchMode = "name") {
   const imageMarkup = product.image
     ? `
       <span class="product-photo-card ${product.category.startsWith("Personeel") ? "person-photo-card" : ""}">
-        <img src="${product.image}" alt="${product.name}" />
+        <img src="${getDisplayImage(product)}" alt="${product.name}" />
       </span>
     `
     : "";
   const praxisLinkMarkup = product.praxisUrl
     ? `
       <a class="praxis-result-link" href="${product.praxisUrl}" target="_blank" rel="noopener" aria-label="Bekijk ${product.name} bij Praxis">
-        <img src="logo-voor-app.png" alt="" />
+        Praxis
       </a>
     `
     : "";
@@ -355,7 +363,7 @@ function setResult(product, query, searchMode = "name") {
           type="button"
           class="category-color"
           data-category="${product.category}"
-          style="background: ${getCategoryColor(product.category)}"
+          style="--category-color: ${getCategoryColor(product.category)}"
           aria-label="Toon alle artikelen uit ${product.category}"
         ></button>
       </span>
@@ -364,7 +372,23 @@ function setResult(product, query, searchMode = "name") {
   `;
 }
 
+function setStaffSearchResult() {
+  result.classList.remove("empty");
+  result.classList.add("idle");
+  result.innerHTML = `
+    <span class="result-label">Personeel</span>
+    <strong>Kies een collega</strong>
+  `;
+}
+
 function selectProduct(product) {
+  if (isStaff(product)) {
+    setResult(product, "personeel");
+    searchInput.value = "personeel";
+    searchInput.focus();
+    return;
+  }
+
   searchInput.value = product.name;
   updateSearch();
   searchInput.focus();
@@ -377,7 +401,7 @@ function renderList(items, label = null, options = {}) {
   const sortedItems = sortProducts(items);
 
   if (items.length === 0) {
-    productList.innerHTML = `<p class="no-results">Geen producten gevonden.</p>`;
+    productList.innerHTML = `<p class="no-results">Geen ${listTitle.textContent.toLocaleLowerCase("nl-NL")} gevonden.</p>`;
     return;
   }
 
@@ -393,12 +417,18 @@ function renderList(items, label = null, options = {}) {
       ? `<button type="button" class="product-number" aria-label="Toon ${product.name}">${product.number}</button>`
       : `<span class="product-number">${product.number}</span>`;
 
+    const thumbnailMarkup = product.image
+      ? `<span class="product-thumb"><img src="${getDisplayImage(product)}" alt="" /></span>`
+      : `<span class="product-thumb product-thumb-empty"></span>`;
+
     row.innerHTML = `
+      ${thumbnailMarkup}
       <span class="product-info">
         <span class="product-name">${product.name}</span>
         <span class="product-category">${product.category}</span>
       </span>
       ${numberMarkup}
+      <span class="product-chevron" aria-hidden="true">›</span>
     `;
 
     if (options.numberOnlyClick) {
@@ -413,8 +443,19 @@ function renderList(items, label = null, options = {}) {
 
 function updateSearch() {
   const query = normalize(searchInput.value);
+  const isStaffSearch = query === "personeel";
   const isNumberSearch = /^\d+(?:-\d+)?$/.test(query);
-  const visibleProducts = query ? products : products.filter((product) => !isStaff(product));
+  const visibleProducts = products.filter((product) => !isStaff(product));
+
+  if (isStaffSearch) {
+    const staffProducts = products.filter((product) => isStaff(product));
+    setStaffSearchResult();
+    renderList(staffProducts, `${staffProducts.length} gevonden`, {
+      title: "Personeel",
+    });
+    return;
+  }
+
   const matches = query
     ? visibleProducts.filter((product) =>
         `${normalize(product.name)} ${normalize(product.category)} ${product.number}`.includes(query),
