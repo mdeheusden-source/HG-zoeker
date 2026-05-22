@@ -525,6 +525,10 @@ input::-webkit-search-decoration {
   font-weight: 850;
 }
 
+.no-break {
+  white-space: nowrap;
+}
+
 .product-category {
   min-width: 0;
   color: #b7b7b7;

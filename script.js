@@ -3,7 +3,7 @@
   { name: "Brilreiniger (120 ml)", category: "Woonkamer & Overige Vertrekken", number: "102", image: "images/102.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/schoonmaakmiddelen/allesreinigers/hg-brilreiniger-fles-125ml/2483475" },
   { name: "Zilverpoets (125 ml)", category: "Woonkamer & Overige Vertrekken", number: "103", image: "images/103.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/onderhouds-restauratie-producten-voor-specifieke-oppervlakken/metaalreiniging-roestverwijderaars/metaalreinigers/hg-zilver-polish-125ml/2431943" },
   { name: "Zilverglans (125 ml)", category: "Woonkamer & Overige Vertrekken", number: "103", image: "images/103.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/onderhouds-restauratie-producten-voor-specifieke-oppervlakken/metaalreiniging-roestverwijderaars/metaalreinigers/hg-zilver-polish-125ml/2431943" },
-  { name: "Koper Reiniger", category: "Woonkamer & Overige Vertrekken", number: "104" },
+  { name: "Koper reiniger (500 ml)", category: "Woonkamer & Overige Vertrekken", number: "104", image: "images/104.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/onderhouds-restauratie-producten-voor-specifieke-oppervlakken/metaalreiniging-roestverwijderaars/metaalreinigers/hg-koperreiniger-500ml/2431922" },
   { name: "Koper Glans Shampoo", category: "Woonkamer & Overige Vertrekken", number: "104" },
   { name: "Kachelruitjesreiniger (500 ml)", category: "Woonkamer & Overige Vertrekken", number: "105", image: "images/105.jpg", praxisUrl: "https://www.praxis.nl/verwarmingen-airco-s/kachels-haarden/schoorsteenvegen-onderhoud/onderhoudsproducten-voor-kachel-haard/hg-kachelruitreiniger-500ml/2433469" },
   { name: "Vlekverwijderaar Extreem Sterk (500 ml)", category: "Woonkamer & Overige Vertrekken", number: "106", image: "images/106.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/wassen-strijken/was-textiel-reinigingsmiddelen/textielreinigers/hg-vlekverwijderaar-extra-sterk-500ml/5544894" },
@@ -12,7 +12,7 @@
   { name: "Meubelglans (300 ml)", category: "Woonkamer & Overige Vertrekken", number: "108" },
   { name: "Meubelbeschermer (300 ml)", category: "Woonkamer & Overige Vertrekken", number: "108" },
   { name: "Meubelhersteller Donker Hout, Meubelline (250 ml)", category: "Woonkamer & Overige Vertrekken", number: "109", image: "images/109.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/hout-onderhoud-reparatie/olie-wasverwijderaars/meubelshampoo-olieverwijderaars/meubeline-hg-meubelhersteller-donker-hout-250ml/2432156" },
-  { name: "Meubelhersteller Licht Hout, Meubelline", category: "Woonkamer & Overige Vertrekken", number: "110" },
+  { name: "Meubelhersteller licht hout, Meubeline (250 ml)", category: "Woonkamer & Overige Vertrekken", number: "110", eans: ["8711577190637", "8711577012434"], image: "images/110.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/hout-onderhoud-reparatie/olie-wasverwijderaars/meubelherstellers/hg-meubeline-renovatie-voor-lichte-houtsoorten-250ml/2478810" },
   { name: "Verzorgende Meubelolie", category: "Woonkamer & Overige Vertrekken", number: "111" },
   { name: "Natuursteen Crystalizer (250 ml)", category: "Woonkamer & Overige Vertrekken", number: "112" },
   { name: "4 In 1 Voor Leer (250 ml)", category: "Woonkamer & Overige Vertrekken", number: "113", image: "images/113.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/onderhouds-restauratie-producten-voor-specifieke-oppervlakken/leerverzorging-onderhoud/leerolie/hg-4-in-1-leer-afdichtingsmiddel-250ml/2432051" },
@@ -41,7 +41,7 @@
   { name: "Alle Nare Geurtjes Weg (500 ml)", category: "Badkamer & Toilet", number: "131", image: "images/131.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/wassen-strijken/was-textiel-reinigingsmiddelen/textiel-ontgeurders/hg-allesreiniger-alle-nare-geurtjes-weg-0-5l/2431812" },
   { name: "Eco Toiletruimte Reiniger", category: "Badkamer & Toilet", number: "132" },
   { name: "Toiletruimte Reiniger Elke Dag", category: "Badkamer & Toilet", number: "133" },
-  { name: "Eco Toiletgel", category: "Badkamer & Toilet", number: "134" },
+  { name: "Toiletgel (eco) (500 ml)", category: "Badkamer & Toilet", number: "134", image: "images/134.jpg", praxisUrl: "https://www.praxis.nl/onderhoud-schoonmaak/schoonmaakmiddelen/schoonmaakmiddelen-voor-badkamer-toilet/toiletreinigers/hg-eco-toiletgel-500ml/10119762" },
   { name: "Toiletgel Extreem Sterk", category: "Badkamer & Toilet", number: "135" },
   { name: "Hygienische Toiletgel", category: "Badkamer & Toilet", number: "136" },
   { name: "Toilet Renovatiekit (500 ml)", category: "Badkamer & Toilet", number: "137", image: "images/137.jpg" },
@@ -140,7 +140,7 @@
   { name: "Autoreiniger en Beschermer (1 L)", category: "Schuur & Garage", number: "316", image: "images/316.jpg" },
   { name: "Auto Carwash Shampoo (1 L)", category: "Schuur & Garage", number: "316", image: "images/316.jpg" },
   { name: "Velgenreiniger", category: "Schuur & Garage", number: "317" },
-  { name: "Bekledingreiniger", category: "Schuur & Garage", number: "318" },
+  { name: "Bekledingsreiniger (500 ml)", category: "Schuur & Garage", number: "318", eans: ["8711577189761", "8711577003319"], image: "images/318.jpg", praxisUrl: "https://www.praxis.nl/fiets-auto-accessoires/auto-materialen-accessoires/auto-reinigingsmaterialen-producten/bekledingreiniger/hg-bekledingreiniger-auto-fles-500ml/2432203" },
   { name: "Olievlekkenreiniger", category: "Schuur & Garage", number: "319" },
   { name: "Roestverwijderaar (500 ml)", category: "Schuur & Garage", number: "320", image: "images/320.jpg" },
   { name: "Roestoplosser (500 ml)", category: "Schuur & Garage", number: "320", image: "images/320.jpg" },
@@ -264,6 +264,25 @@ function getDisplayImage(product) {
   return product.image.replace(/^images\//, "images/cutout/").replace(/\.(jpe?g)$/i, ".png");
 }
 
+function getImageFallback(product) {
+  return product.image ? ` onerror="this.onerror=null;this.src='${product.image}'"` : "";
+}
+
+function getSearchText(product) {
+  return `${normalize(product.name)} ${normalize(product.category)} ${product.number} ${(product.eans || []).join(" ")}`;
+}
+
+function hasExactCode(product, query) {
+  return String(product.number) === query || (product.eans || []).includes(query);
+}
+
+function formatDisplayName(value) {
+  return String(value).replace(
+    /\((?=[^)]*\d)(?=[^)]*(?:ml|l|g|gram))[^)]*\)/gi,
+    '<span class="no-break">$&</span>',
+  );
+}
+
 function getNumberParts(number) {
   return String(number)
     .split("-")
@@ -320,14 +339,15 @@ function setResult(product, query, searchMode = "name") {
     return;
   }
 
+  const formattedName = formatDisplayName(product.name);
   const mainResult =
     searchMode === "number"
-      ? `<strong class="product-result-name">${product.name}</strong>`
+      ? `<strong class="product-result-name">${formattedName}</strong>`
       : `<strong>${product.number}</strong>`;
   const label =
     searchMode === "number"
       ? `${product.category} · nummer ${product.number}`
-      : `${product.category} · ${product.name}`;
+      : `${product.category} · ${formattedName}`;
   const roleMarkup = product.role ? `<span class="person-role">${product.role}</span>` : "";
   const birthdayMarkup = product.birthday
     ? `<span class="person-details">Geboortedatum: ${product.birthday}</span>`
@@ -338,7 +358,7 @@ function setResult(product, query, searchMode = "name") {
   const imageMarkup = product.image
     ? `
       <span class="product-photo-card ${product.category.startsWith("Personeel") ? "person-photo-card" : ""}">
-        <img src="${getDisplayImage(product)}" alt="${product.name}" />
+        <img src="${getDisplayImage(product)}" alt="${product.name}"${getImageFallback(product)} />
       </span>
     `
     : "";
@@ -418,13 +438,13 @@ function renderList(items, label = null, options = {}) {
       : `<span class="product-number">${product.number}</span>`;
 
     const thumbnailMarkup = product.image
-      ? `<span class="product-thumb"><img src="${getDisplayImage(product)}" alt="" /></span>`
+      ? `<span class="product-thumb"><img src="${getDisplayImage(product)}" alt=""${getImageFallback(product)} /></span>`
       : `<span class="product-thumb product-thumb-empty"></span>`;
 
     row.innerHTML = `
       ${thumbnailMarkup}
       <span class="product-info">
-        <span class="product-name">${product.name}</span>
+        <span class="product-name">${formatDisplayName(product.name)}</span>
         <span class="product-category">${product.category}</span>
       </span>
       ${numberMarkup}
@@ -457,12 +477,10 @@ function updateSearch() {
   }
 
   const matches = query
-    ? visibleProducts.filter((product) =>
-        `${normalize(product.name)} ${normalize(product.category)} ${product.number}`.includes(query),
-      )
+    ? visibleProducts.filter((product) => getSearchText(product).includes(query))
     : visibleProducts;
   const exactMatch = visibleProducts.find(
-    (product) => normalize(product.name) === query || String(product.number) === query,
+    (product) => normalize(product.name) === query || hasExactCode(product, query),
   );
   const bestMatch = exactMatch || matches[0];
 
